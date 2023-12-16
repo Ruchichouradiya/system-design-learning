@@ -25,3 +25,5 @@ Proxy Server - https://www.fortinet.com/resources/cyberglossary/proxy-server
 https://www.geeksforgeeks.org/web-server-proxies-and-their-role-in-designing-systems/
 
 Web Socket - https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/
+
+DNS - https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/
