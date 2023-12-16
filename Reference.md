@@ -14,3 +14,6 @@ Caching Patterns - https://newsletter.systemdesign.one/p/caching-patterns
 
 Distributed Caching - https://redis.com/glossary/distributed-caching/
 
+API Rate Limiter - https://www.imperva.com/learn/application-security/rate-limiting/
+
+https://www.geeksforgeeks.org/how-to-design-a-rate-limiter-api-learn-system-design/
