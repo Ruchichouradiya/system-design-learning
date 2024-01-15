@@ -27,3 +27,7 @@ https://www.geeksforgeeks.org/web-server-proxies-and-their-role-in-designing-sys
 Web Socket - https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/
 
 DNS - https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/
+
+Failover - https://avinetworks.com/glossary/failover/
+
+https://atlan.com/batch-processing-vs-stream-processing/
