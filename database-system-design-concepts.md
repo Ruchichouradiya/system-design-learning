@@ -25,3 +25,5 @@ CAP Theorem - https://www.geeksforgeeks.org/the-cap-theorem-in-dbms/
 https://www.bmc.com/blogs/cap-theorem/
 
 sql vs nosql - https://www.integrate.io/blog/the-sql-vs-nosql-difference/
+
+https://www.geeksforgeeks.org/introduction-to-nosql/
